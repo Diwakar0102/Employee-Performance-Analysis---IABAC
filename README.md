@@ -30,7 +30,7 @@ The dataset includes multiple features related to the prediction problem.
 6. Business Recommendations  
 
 ## 🚀 Results
-- Achieved **XX% accuracy** / performance score.  
+- Achieved **82% accuracy** / performance score.  
 - Extracted insights useful for real-world applications.  
 
 ## 📌 Requirements
